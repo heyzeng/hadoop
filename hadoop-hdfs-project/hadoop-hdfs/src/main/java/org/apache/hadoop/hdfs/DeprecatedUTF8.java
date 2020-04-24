@@ -25,6 +25,7 @@ import java.io.IOException;
 import org.apache.hadoop.classification.InterfaceAudience;
 
 /**
+ *
  * A simple wrapper around {@link org.apache.hadoop.io.UTF8}.
  * This class should be used only when it is absolutely necessary
  * to use {@link org.apache.hadoop.io.UTF8}. The only difference is that 
